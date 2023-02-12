@@ -6,6 +6,5 @@ option
 art
 pywifi
 progressbar
-socket
 requests
 tqdm
