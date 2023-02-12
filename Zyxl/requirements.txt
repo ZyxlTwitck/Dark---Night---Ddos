@@ -1,0 +1,11 @@
+pyttsx3
+sockets
+pyautogui
+keyboard
+option
+art
+pywifi
+progressbar
+socket
+requests
+tqdm
